@@ -1,0 +1,11 @@
+# Robots.txt for provideroutboundmalang.vercel.app
+# Allow all crawlers access to all pages
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://provideroutboundmalang.vercel.app/sitemap.xml
+
+# Disallow admin or private paths (none currently)
+# Disallow: /admin/
